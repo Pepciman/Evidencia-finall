@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Portafolio Digital</title>
+    <meta charset="UTF-8">
+</head>
+<body>
+    <h1>Mi Portafolio Digital – Bloque III</h1>
+    <p>Bienvenido. Aquí encontrarás mis evidencias del Bloque III.</p>
+
+    <h2>Evidencias</h2>
+    <ul>
+        <li><a href="evidencias/mapa-mental.pdf">Mapa Mental</a></li>
+        <li><a href="evidencias/reporte.pdf">Reporte de Investigación</a></li>
+        <li><a href="evidencias/ensayo-soft-skills.pdf">Ensayo Soft Skills</a></li>
+        <li><a href="evidencias/caso-exito.pdf">Caso de Éxito</a></li>
+        <li><a href="evidencias/cronograma.pdf">Cronograma</a></li>
+    </ul>
+</body>
+</html>
